@@ -1,0 +1,26 @@
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Form1.resources
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.GenerateResource.cache
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\bin\Debug\SerialIO.exe
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\bin\Debug\SerialIO.pdb
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Properties.Resources.resources
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.exe
+C:\Users\251697E\Desktop\Serial_IO_4byte_Example\BluetoothIO_GUI_Sample_2016_4byte\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.pdb
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csprojAssemblyReference.cache
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Form1.resources
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Properties.Resources.resources
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.GenerateResource.cache
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.exe
+C:\Users\251697E\OneDrive - Curtin\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.pdb
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\bin\Debug\SerialIO.exe.config
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\bin\Debug\SerialIO.exe
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\bin\Debug\SerialIO.pdb
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.AssemblyReference.cache
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Form1.resources
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialGUISample.Properties.Resources.resources
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.GenerateResource.cache
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.exe
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.pdb
+C:\Users\sathi\Downloads\Serial_IO_4byte_Example(1)(1)\Serial_IO_4byte_Example\SerialIO_GUI_Sample_2016_4byte\SerialIO_GUI_Sample_2016_4byte\obj\x86\Debug\SerialIO.exe.config
